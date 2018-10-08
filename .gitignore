@@ -1,0 +1,11 @@
+*.factorypath
+*.iml
+.checkstyle
+.clover
+.factorypath
+.gradle
+.idea/*
+.project
+.settings
+build
+out
